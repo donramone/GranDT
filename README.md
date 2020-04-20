@@ -5,3 +5,6 @@ El Gran DT es un juego donde se arma un equipo de 15 jugadores (11 titulares y 4
 
 ## Reglas 
 Puedes ver el reglamento y sistema de puntuacion en el siguiente enlace: [Reglamento](https://www.grandt.clarin.com/pdf/Reglamento_Gran_DT.pdf)
+
+## Ideas de como creo que puede arrancar a armar mis clases
+![Image](https://github.com/donramone/GranDT/blob/master/Untitled%20Diagram.png)
